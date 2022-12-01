@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "759608535169",
+    "firebase_url": "https://fluttercrudrealtime-default-rtdb.firebaseio.com",
+    "project_id": "fluttercrudrealtime",
+    "storage_bucket": "fluttercrudrealtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759608535169:android:a0dee6cf3964b23d7c8580",
+        "android_client_info": {
+          "package_name": "com.example.app_flutter_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759608535169-bqivr0ubgklj11jdmhb4odrb3rmjj4ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEgZHeg800qI1QXTKzDOOuV6nrf5xY2DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759608535169-bqivr0ubgklj11jdmhb4odrb3rmjj4ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
